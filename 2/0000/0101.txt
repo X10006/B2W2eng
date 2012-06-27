@@ -1,25 +1,25 @@
 Your name?
-\xf000ā\x0001\x0000's nickname?
+\ xf000ā \ x0001 \ x0000's nickname?
 Box name?
 Your rival's name?
 Your friend's name?
 How do you greet passersby?
 How do you thank passersby?
-What's your message\xfffeto passersby?
-この　まちの　なまえは？\xfffe（トレーナーカードに　のります）
-あなたの　かたがきは？\xfffe（このまち　だけの　よばれかた　です）
-じぶんの　くちぐせは？\xfffe（せかいの　みんなに　つたわります）
-パスワードを　にゅうりょくせよ
-ゲームシンクＩＤコードを\xfffeにゅうりょく　してください
-かんどう　したときの　ことばは？\xfffe（せかいの　みんなに　つたわります）
-さんかしている　トレーナーへ\xfffeつたえたい　メッセージは？
-すれちがった　あいてへの\xfffeよろこびの　メッセージは？
-ポケモンの　なまえは？
+What's your message \ xfffeto passersby?
+The name of this town? \ (Take the trainer card) xfffe
+Your title? \ (is how this town is called only) xfffe
+My favorite phrase? \ (transmitted to everyone in the world) xfffe
+Enter the password case
+Please enter \ xfffe the game sink ID code
+Words when the impression is? \ (transmitted to everyone in the world) xfffe
+Message I want to tell \ xfffe to the trainer you are participating?
+Message of joy \ xfffe nearly ran to the other party is?
+The name of the Pokemon?
 Please enter the name.
-Numbers may contain\xfffeonly up to four digits.
-ゲームシンクＩＤコードが\xfffeまちがっています
-　
-　
+Numbers may contain \ xfffeonly up to four digits.
+Game sink ID code is incorrect \ xfffe
+
+
 Best regards!
 Thank you!
 White.
