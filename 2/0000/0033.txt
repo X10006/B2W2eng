@@ -1,37 +1,37 @@
-\xf000Ā\x0001\x0000
-ＩＤ\xf000Ȅ\x0001\x0000
-あと\xf000Ȁ\x0001\x0000にん　ひつよう
-あと\xf000Ȁ\x0001\x0000にん　まで
-マルチバトル　ぼしゅうちゅう！
-ミュージカル　ぼしゅうちゅう！
-バトルサブウェイ　ぼしゅうちゅう！
-\xf000Ā\x0001\x0000\xf000봅\x0001FＩＤ：\xf000Ȅ\x0001\x0001
-さんか　メンバーを　まっています\xfffeＢボタン：やめる
-メンバーが　そろったら\xfffeＡボタン：すすむ　Ｂボタン：やめる
-\xf000Ā\x0001\x0000から　れんらくあり！\xfffeメンバーに　しますか？
-このメンバーで　よろしいですか？
-マルチバトルを　やめますか？
-ミュージカルを　やめますか？
-バトルサブウェイを　やめますか？
-リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
-それでは　マルチバトルを\xfffeちゅうし　します
-それでは　ミュージカルを\xfffeちゅうし　します
-それでは　バトルサブウェイを\xfffeちゅうし　します
-つごうの　わるくなってしまった\xfffeメンバーが　います
-メンバーが　いなくなりました\xfffeマルチバトルを　ちゅうし　します
-そのまま　おまちください\xfffeＢボタン：やめる
-そのまま　おまちください
-つごうが　わるくなりました\xfffeマルチバトルを　ちゅうし　します\xf000븂\x0001<
-つごうが　わるくなりました\xfffeミュージカルを　ちゅうし　します\xf000븂\x0001<
-つごうが　わるくなりました\xfffeバトルサブウェイを　ちゅうし　します\xf000븂\x0001<
-\xf000ȁ\x0001\x0000:
-\xf000ȁ\x0001\x0000:\xf000Ā\x0001\x0001\xf000봅\x0001jＩＤ：\xf000Ȅ\x0001\x0002
-ミュージカルをする　ともだちを\xfffeえらんでください
-バトルサブウェイをする　ともだちを\xfffeえらんでください
-メンバーが　そろいました！\xfffeそれでは　こちらへ　どうぞ！
-\xf000Ā\x0001\x0000から　ＮＧとの\xfffeへんじが　きてしまいました……\xf000븂\x0001<
-\xf000Ā\x0001\x0000の　へんじを　まっています\xfffeＢボタン：やめる
-\xf000Ā\x0001\x0000から　ＯＫとの\xfffeへんじが　きました\xf000븂\x0001<
-そのまま　おまちください\xfffeＢボタン：やめる
-メンバーから　ぬけますか？
-つごうが　わるいみたい……\xf000븂\x0001<
+xf000 ā \x0001\x0000
+ID \xf000 Ȅ \x0001\x0000
+After \xf000 Ȁ \x0001\x0000 people need
+After \xf000 Ȁ \x0001\x0000 family until
+マルチバトル Plaza lot!
+Musical Plaza lot!
+About Plaza lot!
+\xf000 ā \x0001\x0000\xf000 봅 \x0001FID: > xf000 Ȅ \x0001\x0001
+Miss \xfffeB button are waiting for members: stop
+Total members proceeded B button: button \xfffeA: quit
+from \xf000 ā \x0001\x0000 will be! members of the \xfffe do you?
+This member may I?
+Stop マルチバトル?
+Stop the musicals?
+Stop about?
+Stop the leader かいさん, becomes \xfffe??
+Then the \xfffe service マルチバトル
+Then the \xfffe service musical
+Then the \xfffe service about
+Succession has had bad \xfffe members
+Missing in the Member ちゅうし the \xfffe マルチバトル was
+Please wait as button of \xfffeB: stop
+Please wait as
+ちゅうし the succeeds became bad \xfffe マルチバトル \xf000 븂 \x0001 <
+\Xf000 븂 \x0001 < ちゅうし the \xfffe musical became bad succeeds
+\Xf000 븂 \x0001 < ちゅうし the \xfffe about now bad succeeds
+\xf000 \x0001\x0000: ȁ
+\xf000 ȁ \x0001\x0000: \xf000 ā \x0001\x0001\xf000 봅 \x0001jID: > xf000 Ȅ \x0001\x0002
+Choose a friend to musical \xfffe
+Please choose the friend that about \xfffe
+Members of the OnTimer! \xfffe now here to please!
+changing from \xf000 ā \x0001\x0000 \xfffe NG and hasn't replied I've been...... \xf000 븂 \x0001 <
+the \xf000 ā \x0001\x0000 question \xfffeB button has snapped: stop
+changing from \xf000 ā \x0001\x0000 \xfffe OK and hasn't replied I \xf000 븂 \x0001 <
+Please wait as button of \xfffeB: stop
+Up from the members?
+Like bad succeeds...... \xf000 븂 \x0001 <
