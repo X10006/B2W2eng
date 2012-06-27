@@ -1,4 +1,4 @@
-MAIN MENU
+AIN MENU
 POKÉMON CENTER INFO
 C-GEAR INFO
 ABOUT “MENU"
@@ -66,138 +66,29 @@ READY BUTTON
 FRIDAY BOX
 TRANSFER POKÉMON WITH POKÉ TRANSFER
 CATCH POKÉMON WITH POKÉ TRANSFER
-ぼうけんを　はじめたら\xfffeＸボタンで　メニューを　ひらき\xfffe「レポート」を　こまめに　かきましょう。\xfffe\xfffeレポートをかくと　ＤＳの　でんげんを\xfffeきっても　タイトルメニューの\xfffe「つづきから　はじめる」から\xfffeぼうけんの　つづきを　あそべます。
-レポートを　すべてけして　もういちど\xfffeさいしょから　ぼうけんを　はじめなおす\xfffeときは　タイトルがめんで\xfffe\xfffeうえボタン　セレクトボタン　Ｂボタン\xfffe\xfffeの　３つのボタンを\xfffeどうじに　ぜんぶ　おしてください。
-イベントかいじょうなどで　とくべつな\xfffeプレゼントを　つぎの　３つの　ほうほうで\xfffeうけとることが　できます。\xfffe・ワイヤレスつうしんで　うけとる\xfffe・Ｗｉ－Ｆｉつうしんで　うけとる\xfffe・せきがいせんつうしんで　うけとる\xfffe\xfffeイベントごとに　ほうほうが　きめられて\xfffeいますので　ごちゅういください。
-ふしぎな　おくりもので　とくべつな\xfffeポケモンや　どうぐを　もらえる\xfffeふしぎなカードを　じゅしんすると\xfffeポケモンセンターに\xfffeあおい　ぼうしを　かぶった\xfffeはいたついんが　やってきます。\xfffe\xfffeはいたついんに　はなしかけて\xfffeポケモンや　どうぐを　うけとってください。
-ふしぎなカードは　１２まいまで\xfffeもっておくことが　できます。\xfffe\xfffeふしぎなカードが　いっぱいのときに\xfffeさらにカードを　うけとりたいときは\xfffe「カードアルバムを　みる」から\xfffeおくりものを　すでに　うけとったカードを\xfffeけしてください。
-Ｗｉ－Ｆｉや　イベントかいじょうで\xfffeおこなわれる　ポケモンしょうぶの\xfffeたいかいに　さんかします。\xfffe\xfffeバトルたいかいについて　くわしくは\xfffeタイトルメニューの\xfffe「バトルたいかい」にある\xfffe「せつめいを　きく」を\xfffeかくにん　してください。
-ユーザーとうろくの　ほうほうや\xfffeバトルたいかいへの　さんかのしかた\xfffeルールのかくにんなど\xfffeバトルたいかいについて　くわしいことは\xfffeインターネットこうしきサイト\xfffe「ポケモングローバルリンク」か\xfffe「ポケットモンスターオフィシャルサイト」で\xfffeかくにん　してください。
-バトルたいかいには\xfffeゲームのなかの　パソコンにある\xfffe「バトルボックス」に　とうろくされている\xfffeポケモンが　さんかします。\xfffe\xfffeいちど　とうろくすると　たいかいちゅうは\xfffeバトルボックスを　へんこうできませんので\xfffeとうろくするまえに　じっくりかんがえて\xfffeポケモンを　えらんで　ください。
-バトルたいかいが　おわったあと\xfffeバトルボックスの　ポケモンをとりだすには\xfffeたいかいさんかを　かいじょ　するか\xfffeしゅうりょうする　ひつようが　あります。\xfffe\xfffeくわしくは　インターネットこうしきサイト\xfffe「ポケモングローバルリンク」か\xfffe「ポケットモンスターオフィシャルサイト」で\xfffeかくにん　してください。
-バトルたいかいへの\xfffeとうろくが　かんりょうすると\xfffeデジタルせんしゅしょうを\xfffeかくにん　できるように　なります。\xfffe\xfffeくわしいことは\xfffeインターネットこうしきサイト\xfffe「ポケモングローバルリンク」で\xfffeかくにん　してください。
-ゲームシンクせっていを　するには\xfffeあらかじめ　「Ｗｉ－Ｆｉせってい」を\xfffeすませておく　ひつようが　あります。\xfffe\xfffeＷｉ－Ｆｉせっていを　すませたあと\xfffeゲームシンクせっていを　えらぶと\xfffeあなただけの　ばんごうである\xfffe「ゲームシンクＩＤコード」が\xfffeはっこうされます。
-ゲームシンクＩＤコードは\xfffeじっさいのパソコンを　つかって\xfffeインターネットこうしきサイト\xfffe「ポケモングローバルリンク」で\xfffeユーザーとうろくを　するときに\xfffeひつように　なります。
-なお　ゲームシンクＩＤコードは\xfffeぼうけんの　レポートを　けすと\xfffeいっしょに　きえてしまいます。\xfffe\xfffeゲームシンクＩＤコードが\xfffeかわったばあいは　もういちど\xfffeポケモングローバルリンクで\xfffeとうろくしなおす　ひつようが　あります。
-ニンテンドーＤＳ／ＤＳ　Ｌｉｔｅで\xfffeＷｉ－Ｆｉつうしんを　するための\xfffeせっていが　できます。\xfffe\xfffeＷｉ－Ｆｉせっていをすると\xfffeインターネットを　つうじて\xfffeせかいじゅうの　ひとたちと\xfffeポケモンのこうかんや　たいせんが\xfffeできるように　なります。
-また　「バトルたいかい」や\xfffe「ゲームシンクせってい」など\xfffeポケモングローバルリンクとの　れんどうを\xfffeおこないたいばあいも　あらかじめ\xfffeＷｉ－Ｆｉせっていを　しておく\xfffeひつようが　あります。
-ＤＳほんたいの　マイクが\xfffeただしく　うごいているか\xfffeかくにんすることが　できます。\xfffe\xfffeマイクにむかって　こえをだしたり\xfffeいきを　ふきかけたときに\xfffeうえがめんの　プリンが　はんのうすれば\xfffeマイクは　ただしく　うごいています。
-ポケモンを　かいふくしたり　やくにたつ\xfffeどうぐを　かうことが　できます。\xfffeつかまえた　ポケモンを　いれかえたり\xfffeアララギはかせの　ひょうかをきくための\xfffeパソコンも　ここに　おいてあります。\xfffe\xfffeともだちとの　つうしんを　つかった\xfffeポケモンの　こうかんや　たいせんは\xfffeポケモンセンター　２かいで　おこなえます。
-パソコンを　つかうと\xfffeつれている　ポケモンを　あずけたり\xfffeあずけている　ポケモンを\xfffeつれだすことが　できます。\xfffe\xfffeポケモンを　６ひき　つれているときに\xfffeあたらしく　つかまえた　ポケモンは\xfffeじどうてきに　このパソコンに\xfffeてんそうされます。
-パソコンに　あずけている　ポケモンは\xfffe「ボックスを　せいりする」ことで\xfffeすきな　ボックスに　いどう　させたり\xfffeばしょを　いれかえることが　できます。
-いどうさせたい　ポケモンを　タッチし\xfffe「いどうする」を　タッチすると\xfffeみぎがわに　ボックスが　ひょうじされます。\xfffe\xfffeグレーの　やじるしを　じょうげに\xfffeスライドして　いどう　させたい\xfffeボックスを　タッチすると\xfffeポケモンを　タッチした　ボックスに\xfffeいどうさせることが　できます。
-あおいろの　ボタンを　タッチすると\xfffeいれかえモードに　きりかわります。\xfffe\xfffeタッチして　えらんだ　ポケモンを\xfffeいれかえたい　ばしょまで\xfffeスライドさせて　はなしてください。
-きいろの　ボタンを　タッチすると\xfffeふくすういどうモードに　きりかわります。\xfffe\xfffeボックスを　タッチすると\xfffeてんせんが　ひょうじ　されます。\xfffeいどう　させたい　ポケモンを\xfffeかこむことで　てんせんないの　ポケモンを\xfffeまとめて　いどう　させることができます。
-たいせんで　よくつかう　ポケモンを\xfffe１～６ひきまで　とうろくして　おけます。\xfffeともだちと　たいせんするときは\xfffeバトルボックスに　とうろくしたポケモンで\xfffeしょうぶするか　てもちの　ポケモンで\xfffeしょうぶするかを　えらぶことができます。\xfffeバトルボックスに　なにも\xfffeとうろく　していない　ばあいは\xfffeてもちの　ポケモンで　しょうぶを　します。
-ともだちに　つうしんこうかんを\xfffeもうしこむ　ほうほうは\xfffeつぎの　４つが　あります。\xfffe\xfffe・ＩＲつうしんで　はじめる\xfffe・ユニオンルームで　はじめる\xfffe・Ｗｉ－Ｆｉクラブで　はじめる\xfffe・グローバルターミナルで　はじめる
-・ＩＲつうしんで　はじめる\xfffe\xfffeちかくのともだちに　つうしんこうかんを\xfffeもうしこむときは　ＩＲつうしんをつかうと\xfffeすぐに　はじめられて　べんりです。\xfffe\xfffeＣギアの　「ＩＲ」つうしんを　えらび\xfffe「こうかん」を　えらんでください。
-・ユニオンルームで　はじめる\xfffe\xfffeたくさんのともだちと　みんなで\xfffeあそんでいるときは　ユニオンルームに\xfffeあつまって　こうかんを　もうしこめます。\xfffe\xfffeユニオンルームは\xfffeポケモンセンターの　２かいに　あります。
-・Ｗｉ－Ｆｉクラブで　はじめる\xfffe\xfffeともだちが　とおくに　いるときは\xfffeＷｉ－Ｆｉクラブで　こうかんが　できます。\xfffe\xfffeＷｉ－Ｆｉクラブを　りようするには\xfffeおたがいに　Ｗｉ－Ｆｉせっていと\xfffeともだちコードの　こうかんを\xfffeすませておく　ひつようがあります。
-・グローバルターミナルで　はじめる\xfffe\xfffeグローバルターミナルを　つかうと\xfffeせかいじゅうのひとと　ポケモンの\xfffeこうかんが　できます。\xfffeおたがいの　こうかんじょうけんが　あうと\xfffeこうかんが　おこなわれます。
-ともだちに　つうしんたいせんを\xfffeもうしこむ　ほうほうは\xfffeつぎの　４つが　あります。\xfffe\xfffe・ＩＲつうしんで　はじめる\xfffe・ユニオンルームで　はじめる\xfffe・Ｗｉ－Ｆｉクラブで　はじめる\xfffe・グローバルターミナルで　はじめる
-・ＩＲつうしんで　はじめる\xfffe\xfffeちかくのともだちに　つうしんたいせんを\xfffeもうしこむときは　ＩＲつうしんをつかうと\xfffeすぐに　はじめられて　べんりです。\xfffeＣギアの　「ＩＲ」つうしんを　えらび\xfffe「たいせん」を　えらんでください。\xfffeルールは　かならずレベル５０フラットで\xfffeミラクルシューターは　「あり」です。
-・ユニオンルームで　はじめる\xfffe\xfffeたくさんのともだちと　みんなで\xfffeあそんでいるときは　ユニオンルームに\xfffeあつまって　たいせんを　もうしこめます。\xfffe\xfffeユニオンルームは\xfffeポケモンセンターの　２かいに　あります。
-・Ｗｉ－Ｆｉクラブで　はじめる\xfffe\xfffeともだちが　とおくに　いるときは\xfffeＷｉ－Ｆｉクラブで　たいせんが　できます。\xfffe\xfffeＷｉ－Ｆｉクラブを　りようするには\xfffeおたがいに　Ｗｉ－Ｆｉせっていと\xfffeともだちコードの　こうかんを\xfffeすませておく　ひつようがあります。
-・グローバルターミナルで　はじめる\xfffe\xfffeせかいじゅうのひとと\xfffeいろいろなルールで　たいせんをして\xfffeじぶんの　うでを　みがきたいときは\xfffeグローバルターミナルを　つかってください。\xfffe\xfffeグローバルターミナルは\xfffeポケモンセンターの　２かいに　あります。
-ポケモンを　１ひきずつ　だして\xfffeたたかう　しょうぶのことを\xfffeシングルバトル　といいます。\xfffe\xfffeしょうぶの　しゅるいは　シングルバトルを\xfffeふくめて　ぜんぶで　４つあります。\xfffeどのしょうぶでも　わざを　えらぶ　ときに\xfffeＬボタンを　おしながら　Ａボタンを　おすと\xfffeわざの　せつめいを　みることが　できます。
-ポケモンを　２ひきずつ　だして\xfffeたたかう　しょうぶのことを\xfffeダブルバトル　といいます。\xfffe
-ポケモンを　３ひきずつ　だして\xfffeたたかう　しょうぶのことを\xfffeトリプルバトル　といいます。\xfffeトリプルバトルでは　ポケモンの\xfffeいる　ばしょが　あいてから　とおいと\xfffeこうげきを　することができません。\xfffeただし　まんなかに　いる　ポケモンだけは\xfffeあいての　３ひきの　どのポケモンにでも\xfffeこうげきを　することが　できます。
-わざのなかには　あいてからとおくても\xfffeとどくものが　いちぶに　あるようです。\xfffe\xfffeまた　ポケモンが　いる　ばしょは\xfffeいれかえることが　できます。\xfffeひだり　か　みぎの　ポケモンの\xfffeわざを　えらぶがめんで　「いどう」を\xfffeえらぶと　まんなかの　ポケモンと\xfffeばしょを　いれかえることが　できます。
-ローテーションバトルは　シングルバトルが\xfffeしんかした　あたらしい　しょうぶです。\xfffe３ひきずつ　ポケモンを　だします。\xfffe\xfffeこうどうできる　ポケモンは　１かいに\xfffe１ひきだけですが　しょうぶに　でている\xfffe３ひきのうち　どのポケモンが　うごくかを\xfffeじゆうに　えらぶことが　できます。
-うしろのポケモンを　ローテーションで\xfffeまえに　だしたいときは\xfffeわざを　えらぶがめんで\xfffeローテーションの　マークを\xfffeえらんで　ください。\xfffe\xfffeわざを　えらんだ　ポケモンは\xfffeまえに　でたあと　すぐに　こうどうします。
-ミラクルシューターを　「あり」に　すると\xfffeつうしんたいせんの　しょうぶちゅうに\xfffeどうぐを　つかうことが　できます。\xfffeどうぐには　それぞれ　つかうのに\xfffeひつような　ポイントが　きめられています。\xfffeポイントは　ターンがすすむと　ふえます。\xfffeすぐに　どうぐを　つかうか\xfffeためて　きょうりょくな　どうぐを\xfffeつかうかは　じゆうです。
-ユニオンルームでは　ちかくにいる　ひとと\xfffeこうかんや　たいせんなどが　できます。\xfffeポケモンセンター２かいの　ひだりで\xfffeうけつけを　してください。\xfffeルームに　はいったら　はなしたい　ひとの\xfffeまえにたって　Ａボタンを　おしてください。\xfffe\xfffeユニオンルームの　ひだりおくに　いる\xfffeおねえさんから　くわしいことが　きけます。
-ポケモンセンターの　２かいにある\xfffeポケモン Ｗｉ－Ｆｉクラブでは\xfffeともだちてちょうに　とうろくしたひと\xfffeどうしで　つうしんこうかんや　たいせん\xfffeボイスチャット　ライブキャスターを\xfffeたのしむことが　できます。\xfffeともだちを　とうろくする　ほうほうは\xfffe「ともだちコード」の　せつめいを\xfffeごらんください。
-ルームに　はいったら\xfffeつうしんしたい　ともだちの　まえで\xfffeＡボタンを　おしてください。\xfffeつうしんしたいことを　きめて　まっている\xfffeともだちは　ぴょんぴょん　とんでいます。\xfffe\xfffeつうしんで　したいことを　きめている\xfffeときは　おくにある　モニターにむかって\xfffeＡボタンを　おしてください。
-ボイスチャットをつかうと\xfffeでんわのように　とおくのともだちと\xfffeこえで　やりとりすることが　できます。\xfffe\xfffeルームのなかで　Ｘボタンをおすと\xfffeボイスチャットを　するかしないか\xfffeあらかじめ　きめておくことが　できます。
-グローバルターミナル　では\xfffeとおくにいる　みしらぬひとと\xfffeつうしんこうかんや　つうしんたいせんを\xfffeたのしめます。\xfffeポケモンセンター２かいの　みぎで\xfffeうけつけを　してください。
-いちど　Ｗｉ－Ｆｉコネクションに\xfffeせつぞくを　すると　はっこうされる\xfffeあなたこじんの　ばんごうです。\xfffeともだちコードを　おしえあうと\xfffeとおくの　ともだちと\xfffeたいせんや　こうかんが　たのしめます。\xfffeじぶんの　ともだちコードは\xfffeバッグの　たいせつなものの　なかにある\xfffe「ともだちてちょう」で　かくにんできます。
-ともだちコードを　とうろくするほうほうは\xfffeつぎの２しゅるいが　あります。\xfffe\xfffe・バッグの　たいせつなもの　にある\xfffe　ともだちてちょうで　「つかう」をえらび\xfffe　ともだちから　おそわった　コードを\xfffe　ちょくせつ　にゅうりょくする\xfffe・Ｃギアの　ＩＲつうしんを　つかう
-Ｃギアは　ちかくのひとと\xfffeつうしんこうかんや　たいせんをしたり\xfffeハイリンクや　ライブキャスター\xfffeゲームシンクなどを　するときにつかう\xfffeいろいろな　きのうをもった　きかいです。\xfffe\xfffeＣギアの　みぎしたに　ひょうじされた\xfffeでんげんのマークを　タッチすると\xfffeＣギアのでんげんを　オン／オフできます。
-Ｃギアのでんげんが　はいっているとき\xfffeＤＳのむせんは　つねにオンになっています。\xfffe\xfffeひこうきや　びょういんのなか　など\xfffeむせんつうしんを　つかってはいけない\xfffeばしょでは　Ｃギアの　でんげんは\xfffeかならず　オフに　してください。\xfffeまもらないと　ほうりついはんになる\xfffeばあいが　あります。
-Ｃギアの　みぎしたに　ある\xfffeスパナマークを　タッチすると\xfffeＣギアを　カスタマイズできます。\xfffeわくを　タッチして　いろをかえたり\xfffeひかる　ボタンを　スライドさせて\xfffeすきな　ばしょに　いどうできます。\xfffe\xfffe？マークを　タッチすると　Ｃギアの\xfffeヘルプを　みることができます。
-Ｃギアの　まんなかに　ひょうじされる\xfffeしかくいマークが　すれちがいログ　です。\xfffeタッチすると　ちかくで　Ｃギアを\xfffeつかっている　ひとがいるか　わかります。\xfffeちかくの　ひとの　ゲームでの　ようすや\xfffeプロフィールが　わかったり\xfffeメッセージの　やりとりなどが　できます。\xfffeまた　フェスミッションが　はっせいすると\xfffeてんめつして　しらせてくれます。
-Ｃギアをつかっている　べつのひとが\xfffeひょうじされているときに\xfffeそのひとを　タッチすると\xfffeプレイじかんや\xfffeどこを　ぼうけんしているのか\xfffeすれちがいちょうさたいの　ランクなどの\xfffeじょうほうを　みることが　できます。
-すれちがいログ　がめんの　したにある\xfffeさんかくマークを　タッチすると\xfffeハイルツリーから　うけとった\xfffeデルパワーを　つかうことが　できます。\xfffe\xfffeデルパワーを　うけとるには\xfffeハイリンクにある　ハイルツリーを\xfffeかくにん　してください。
-ふきだしのマークを　タッチすると\xfffeＣギアを　つかっている　べつのひとに\xfffeメッセージを　おくることが　できます。\xfffe\xfffeおくられたあいてが\xfffeいやなきもちに　なるようなことばや\xfffeなまえや　でんわばんごうのような\xfffeこじんの　たいせつなじょうほうは\xfffeぜったいに　おくらないでください。
-えがおのマークを　タッチすると\xfffeおれいの　メッセージを\xfffeおくることが　できます。\xfffe\xfffeえがおのマークを　タッチしたあと\xfffeおれいを　おくるあいてを\xfffeえらんで　ください。
-メダルマークを　タッチすると\xfffeつうしんあいてが　てにいれた\xfffeメダルの　かずや　とうろく　している\xfffeイチオシメダルを　みることが　できます。
-すれちがいちょうさとは\xfffeすれちがった　ひとが　どんな　このみや\xfffeしゅみをもっていて\xfffeそのにんずうが　どれくらい　いるのかを\xfffeしらべることです。
-すれちがいちょうさは　ヒウンシティの\xfffeすれちがいちょうさたいほんぶで\xfffeちょうさいらいを　うけることで\xfffeはじめることが　できます。
-たいちょうから　ちょうさいらいを\xfffeうけたら　Ｃギアの　ひだりしたに\xfffeひょうじされている\xfffeえんグラフを　タッチして\xfffeちょうさないようを　きめてください。\xfffe\xfffeちょうさちゅうの　ちょうさには\xfffeしるしが　ついています。
-ちょうさないようを　きめた　あと\xfffeＣギアを　オンにしておくだけで\xfffeじゅんびは　かんりょうです。\xfffeおなじように　Ｃギアを　オンに\xfffeしているひとと　すれちがったときに\xfffeじどうで　ちょうさが　おこなわれます。\xfffeＤＳは　とじていても\xfffeぼうけんを　いつもどおり　すすめていても\xfffeちょうさは　じどうで　おこなわれます。
-ヒウンシティにいる　たいちょうに\xfffeほうこくするまえに　まず\xfffeＣギアの　「ちょうさを　みる」で\xfffeちょうさの　かくにんを　しましょう。\xfffeちょうさしおわったことを　かくにんしたら\xfffeヒウンシティの\xfffeすれちがいちょうさたいほんぶに　いって\xfffeたいちょうに　ちょうさけっかを\xfffeほうこくしてください。
-Ｃギアの　「ＩＲ（アイアール）」と\xfffeかかれた　まるい　わくを　タッチすると\xfffeちかくのひとに　つうしんこうかんや\xfffeたいせんを　もうしこむことが　できます。\xfffeともだちコードを　こうかんしたり\xfffeつうしんあいてとの　あいしょうを\xfffeチェックすることも　できます。
-おたがいに　おなじ　こうもくを　えらんで\xfffeＤＳカードどうしを　むけあい\xfffeつうしんを　はじめます。\xfffeつうしんが　ただしく　はじまったあとは\xfffeＤＳカードを　むけあう\xfffeひつようは　ありません。
-Ｃギアの　「Ｗｉ－Ｆｉ（ワイファイ）」と\xfffeかかれた　まるい　わくを　タッチすると\xfffeゲームシンクが　できます。\xfffe\xfffeゲームシンクとは\xfffeボックスにいる　ポケモンを　ねむらせて\xfffeトレーナーの　レポートを\xfffeおくる　しくみの　ことです。
-Ｃギアの　「Ｗｉ－Ｆｉ」と　かかれた\xfffeまるい　わくは　むせんつうしんの\xfffeじょうきょうによって　いろが　かわります。\xfffe\xfffeつかっている　ＤＳとの\xfffeＷｉ－Ｆｉせっていが　すませてある\xfffeむせんアクセスポイントが\xfffeちかくに　ある　ばあいは\xfffeみどりいろに　ひかります。
-ニンテンドーゾーンなど　みんなが\xfffeＷｉ－Ｆｉつうしんを　つかえる\xfffeむせんアクセスポイントが\xfffeちかくに　ある　ばあいは\xfffe「Ｗｉ－Ｆｉ」の　まるい　わくは\xfffeあおいろに　ひかります。
-Ｗｉ－Ｆｉせっていが　すんでいない\xfffeむせんアクセスポイントが\xfffeちかくに　ある　ばあいは\xfffe「Ｗｉ－Ｆｉ」の　まるい　わくは\xfffeあかいろに　ひかります。
-ゲームシンクで　おくられた　レポートは\xfffe「ポケモンドリームワールド」と　よばれる\xfffeポケモンの　ゆめのせかいに　あつまります。\xfffe\xfffeポケモンドリームワールドは\xfffeインターネットこうしきサイト\xfffe「ポケモングローバルリンク」のなかに\xfffeあります。
-ポケモンドリームワールドで　あそぶには\xfffeつぎの　じゅんびが　ひつようです。\xfffe\xfffe・Ｗｉ－Ｆｉせってい\xfffe・ゲームシンクせってい\xfffe・おてもとのパソコンを　つかって\xfffe　インターネットこうしきサイト\xfffe　「ポケモングローバルリンク」に\xfffe　ユーザーとうろくを　する
-Ｃギアの\xfffe「ＷＩＲＥＬＥＳＳ（ワイヤレス）」と\xfffeかかれた　まるい　わくを　タッチすると\xfffeイッシュちほうの　まんなかに　ある\xfffeハイリンクと　よばれる　ばしょに\xfffeいくことが　できます。\xfffe\xfffeハイリンクの　まんなかには\xfffeハイルツリーと　よばれる　きがあります。
-ハイルツリーに　むかって\xfffeＡボタンを　おすと　フェスミッションを\xfffeうけることが　できます。\xfffe\xfffeミッションには　さまざまな\xfffeもくひょうが　あります。\xfffeせいげんじかんの　なかで\xfffeどうぐを　さがしたり\xfffeポケモンしょうぶを　します。
-ミッションは　スコアを\xfffeためることで　クリアできます。\xfffeミッションせつめいに　かかれた\xfffeクリアもくひょうを　たっせいしましょう。\xfffe\xfffeスコアが　おおいほど\xfffeミッションを　クリアしたときの\xfffeほうしゅうが　おおくなります。
-フェスミッションは\xfffeちかくに　いる　ひとと　いっしょに\xfffeあそぶことが　できます。\xfffe\xfffeだれかが　フェスミッションを　はじめると\xfffeすれちがいログが　ひかるので\xfffeタッチして　すきな　フェスミッションに\xfffeさんかすることが　できます。
-デルパワーは　ハイリンクに　ある\xfffeハイルツリーから　うけとれる\xfffeふしぎな　ちからのこと　です。\xfffe\xfffeデルパワーは　つかうことで\xfffeけいけんちが　おおく　もらえたり\xfffeポケモンが　つかまえやすくなったりと\xfffeさまざまな　こうかが　あります。\xfffeどうじに　３つまで　うけとれます。
-デルパワーを　つかうには\xfffeハイリンクから　でたあとに\xfffeＣギアの　ちゅうおうに　ある\xfffe「すれちがいログ」を　タッチして\xfffeあらわれた　つぎの　がめんにある\xfffeさんかくマークを　タッチして　ください。\xfffeまた　デルパワーを　つかうには\xfffeきめられた　かずの\xfffeデルダマが　ひつよう　です。
-ハイルツリーが　せいちょうし\xfffeレベルが　あがることで\xfffeあたらしい　デルパワーを\xfffeうけとれるように　なります。\xfffe\xfffeレベルを　あげるには\xfffeフェスミッションを　うけて\xfffeスコアを　たくさん　ためます。
-デルダマは　デルパワーを　つかうときに\xfffeきまったかずだけ　ひつように　なります。\xfffe\xfffeデルダマは　ハイルツリーから　うける\xfffeフェスミッションを　クリアすることで\xfffeもらうことが　できます。
-■バッグの　きのう\xfffeバッグは　もちものの　しゅるいごとに\xfffeじどうてきに　ふりわけられます。\xfffe\xfffeたいせつなものポケットに　いれている\xfffeどうぐは　なまえの　よこの　しかくい\xfffeマークを　チェックして　とうろくすると\xfffeバッグを　ひらかなくても　Ｙボタンで\xfffeかんたんに　つかうことが　できます。
-したがめんの　みどりいろの　マークか\xfffeスタートボタンを　おすと　ひょうじされる\xfffeならびかたを　えらぶことで\xfffeどうぐの　ならびを　へんこう　できます。\xfffeセレクトボタンを　おすと\xfffeポケットの　どうぐの　じゅんばんを\xfffeじゆうに　いれかえることが　できます。\xfffeＬ／Ｒボタンを　おすと\xfffeページを　きりかえることが　できます。
-バッグには　「フリースペース」が\xfffeようい　されています。\xfffe\xfffeまず　ポケットの　どうぐを　えらびます。\xfffeつぎに　「フリースペースへ」を\xfffeえらぶことで　すきな　どうぐを\xfffeフリースペースに\xfffeいどう　させることが　できます。
-■もちものの　しゅるい\xfffe・どうぐ\xfffeポケモンに　もたせると　のうりょくや\xfffeわざの　いりょくが　アップする\xfffeどうぐが　あります。\xfffeもたせて　こうかのある　どうぐには\xfffeしるしが　ついているので　\xfffeポケモンに　もたせて\xfffeこうかを　たしかめて　みましょう。
-せんとうちゅうに　つかうと　そのときだけ\xfffeのうりょくや　わざの　いりょくが\xfffeアップする　どうぐも　あります。\xfffe\xfffeいっていのあいだ　こうかが　つづくものや\xfffeポケモンを　いれかえると\xfffeこうかが　きれるものも　あります。
-ポケモンを　つかまえるための　ボールも\xfffeどうぐポケットに　はいっています。\xfffeポケモンの　しんかに　かんけいする\xfffeどうぐも　どこかに　あるようです。\xfffe\xfffeメールは　すきなことばを　くみあわせて\xfffeつくる　てがみの　ことで\xfffeポケモンに　もたせて　こうかんすると　\xfffeともだちに　とどけることが　できます。
-・かいふく\xfffeポケモンの　ＨＰや　ＰＰ\xfffeじょうたいいじょうなどを　かいふくさせる　\xfffeどうぐを　しまっておく　ばしょです。\xfffe\xfffe・わざマシン\xfffeわざマシンや　ひでんマシンを　しまいます。\xfffeわざマシンや　ひでんマシンは\xfffeなんどでも　つかうことができます。
-・きのみ\xfffeポケモンに　つかったり　もたせておくと\xfffeこうかのある　きのみを　しまっておく\xfffeばしょです。\xfffe・たいせつなもの\xfffeたいせつな　どうぐを\xfffeしまっておく　ばしょです。\xfffeべんりボタンに\xfffeとうろくできる　ものも　あります。
-Ｘボタンで　ひらいた　メニューから\xfffeじぶんの　なまえを　えらぶと\xfffeトレーナーカードを\xfffeかくにん　することが　できます。\xfffe\xfffeしたがめんの　ひだりしたに　ある\xfffeマークを　タッチすると\xfffeジムバッジを　どれだけ　もっているか\xfffeかくにん　することが　できます。
-トレーナーカードは　プレイじかんや\xfffeおこづかいを　かくにんできる　カードです。\xfffeかたがきや　せいかくは　がめんを\xfffeタッチすると　きりかわりますので\xfffeすきなものを　えらんでください。\xfffeしたの　あいさつらんを　タッチすると\xfffeメッセージが　へんしゅう　できます。\xfffeあいている　ところに　すきな　たんごを\xfffeえらんで　かんせいさせて　ください。
-カードの　うらには　タッチペンを　\xfffeつかって　サインを　かくことが　できます。\xfffeペンの　マークや　けしゴムの　マークを\xfffeタッチで　きりかえます。\xfffeプラスの　マークを　タッチすると\xfffeがめんを　かくだい　できます。\xfffeさんかくの　マークを　タッチすると\xfffeサインエリアを　はんぶんに　わけた\xfffeアニメが　さいせい　できます。
-ぼうけんを　すすめていくと\xfffeトレーナーカードに　メダルマークが\xfffeついか　されます。\xfffe\xfffeメダルマークを　タッチすることで\xfffeせってい　されている　イチオシメダルや\xfffeメダルを　どれだけ　もっているのか\xfffeかくにん　することが　できます。\xfffe
-であった　ポケモンを　じどうてきに\xfffeきろくしていく　ハイテクな　ずかんです。\xfffe\xfffeつかまえたことが　ある　ポケモンは\xfffeせつめいや　せいそくしている　ばしょ\xfffeなきごえや　たかさ　おもさ\xfffeタイプや　あしあとを\xfffeみることが　できます。
-ポケモンずかんは　リストがめんで\xfffe「ＳＴＡＲＴ」を　おすと\xfffeけんさくモードに　なります。\xfffe\xfffeけんさくモードでは\xfffeばんごう　ごじゅうおん　いろ\xfffeかたち　などから　あてはまる\xfffeポケモンを　さがすことが　できます。
-ぼうけんを　すすめていくと\xfffeポケモンずかんに　「せいそくちリスト」が\xfffeついか　されます。\xfffe\xfffeせいそくちリストは　ばしょごとに\xfffeであった　ポケモンを　ひょうじ　します。\xfffeその　ばしょに　くらす　ポケモンを\xfffeすべて　みたり　つかまえると\xfffeスタンプマークが　ついか　されます。
-たいりょくを　へらしてから\xfffeモンスターボールを　つかうと\xfffeつかまえやすく　なります。\xfffe\xfffeポケモンの　わざで\xfffeまひさせたり　ねむらせたりすると\xfffeさらに　つかまえやすく　なります。
-ポケモンや　わざには　タイプがあり\xfffeそのかずは　ぜんぶで　１７しゅるいです。\xfffeタイプごとに　ゆうりなタイプと\xfffeふりなタイプが　あり\xfffeくみあわせで　あいしょうが　きまります。\xfffeたとえば　ほのおタイプの　わざは\xfffeむしや　くさタイプのポケモンには\xfffeゆうりですが　みずや　いわタイプの\xfffeポケモンには　あまり　ききません。
-だすわざの　タイプが　そのわざを　だす\xfffeポケモンのタイプと　おなじばあいは\xfffeわざのいりょくが　いつもより　あがります。\xfffeポケモンが　２つの　タイプを\xfffeもっていると　それぞれの　あいしょうが\xfffeえいきょう　しあいます。\xfffe\xfffeまた　あいしょうに　よっては　わざの\xfffeこうかがない　くみあわせも　あります。
-わざは　「ぶつり」と　「とくしゅ」と\xfffe「へんか」の　３つに　ぶんるいされていて\xfffeマークに　よって\xfffeみわけることが　できます。\xfffe\xfffe・ぶつりわざ\xfffeポケモンの　こうげきと　ぼうぎょの\xfffeすうちに　よって　ダメージが　きまる\xfffeわざの　しゅるいです。
-・とくしゅわざ\xfffeポケモンの　とくこうと　とくぼうの\xfffeすうちに　よって　ダメージが　きまる\xfffeわざの　しゅるいです。\xfffe・へんかわざ\xfffeあいてを　こうげきする　わざではなく\xfffeポケモンの　のうりょくを　あげたり\xfffeじょうたいいじょうに　するなど　ほじょの\xfffeこうかがある　わざの　しゅるいです。
-ポケモンの　ＨＰが０に　なったじょうたい。\xfffeかいふくさせる　までは　せんとうに\xfffeだすことが　できませんが　せんとうちゅう\xfffeいがいで　つかえる　いちぶの　わざは\xfffeひんしでも　つかうことが　できます。\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・げんきのかけらを　つかう\xfffe・げんきのかたまりを　つかう
-ポケモンが　どくを　あびたじょうたい。\xfffeせんとうちゅう　じょじょに\xfffeＨＰが　へって　いきます。\xfffeボールにもどったり　せんとうがおわると\xfffeＨＰは　へらなく　なりますが\xfffeしぜんには　なおりません。\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・どくけしや　モモンのみを　つかう
-ポケモンが　まひに　なったじょうたい。\xfffeせんとうちゅう　えらんだ　わざが\xfffeときどき　うまく　だせなくなり\xfffeすばやさも　さがってしまいます。\xfffeまた　せんとうが　おわっても\xfffeしぜんには　なおりません。\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・まひなおしや　クラボのみを　つかう
-ポケモンが　ねむっている　じょうたい。\xfffeとくていの　わざ　いがいは\xfffeつかうことが　できなくなります。\xfffeせんとうちゅうに　かいふく　することが\xfffeありますが　ねむったまま　せんとうが\xfffeおわっても　かいふく　しません。\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・ねむけざましや　カゴのみを　つかう
-ポケモンが　こおりついた　じょうたい。\xfffeほとんどの　わざが　だせなくなります。\xfffeせんとうちゅうに　かいふく　することが\xfffeありますが　こおったまま　せんとうが\xfffeおわっても　かいふく　しません。\xfffe\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・こおりなおしや　ナナシのみを　つかう
-ポケモンが　やけどした　じょうたい。\xfffeせんとうちゅう　じょじょに　ＨＰが\xfffeへっていき　こうげきも　さがります。\xfffeボールにもどったり　せんとうがおわると\xfffeＨＰは　へらなく　なりますが\xfffeしぜんには　なおりません。\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・やけどなおしや　チーゴのみを　つかう
-ポケモンが　こんらんした　じょうたい。\xfffeえらんだ　わざを　ださずに　ときどき\xfffeじぶんを　こうげきして　しまいます。\xfffeせんとうちゅう　しばらくたつか\xfffeせんとうがおわると　しぜんに　なおります。\xfffe\xfffe■なおす　おもな　ほうほう\xfffe・せんとうちゅう　ポケモンを　いれかえる\xfffe・キーのみを　つかう
-せいべつの　ちがう　ポケモンに　\xfffeメロメロに　なった　じょうたい。\xfffeあいての　ポケモンに　みとれて\xfffeえらんだ　わざを\xfffeときどき　だせなく　なります。\xfffeポケモンを　いれかえるか\xfffeあいてを　たおすと　なおります。
-ポケモンは　たたかいに　さんかすると\xfffeけいけんちが　もらえます。\xfffeたくさん　けいけんを　つむと　レベルが\xfffeあがって　どんどん　せいちょうします。\xfffe\xfffeあいての　ポケモンのほうが　つよいと\xfffeもらえる　けいけんちは　おおくなります。\xfffeあいての　ポケモンのほうが　よわいと\xfffeもらえる　けいけんちは　すくなくなります。
-けいけんちは　せんとうにでた\xfffeすべての　ポケモンで　わけあいます。\xfffeよわいポケモンにも　わけたいときは\xfffeよわいポケモンを　さきに　だしたあと\xfffeつよいポケモンに　こうたいする\xfffeテクニックも　あります。\xfffeほかのひとと　こうかんした　ポケモンは\xfffeじぶんで　つかまえた　ポケモンよりも\xfffeもらえる　けいけんちが　おおくなります。
-ポケモンは　しんかすることが　あります。\xfffeしんかすると　すがたかたちが　かわり\xfffeのうりょくも　アップします。\xfffe\xfffeレベルを　あげて　せいちょうさせたり\xfffeしんかにひつような　どうぐを　つかったり\xfffeともだちと　つうしんで　こうかんしたりと\xfffeポケモンごとに　さまざまな\xfffeしんかの　しかたが　あるようです。
-ポケモンが　しんかしている　さいちゅうに\xfffeＢボタンを　おすと　ポケモンが　\xfffeおどろいて　しんかを　やめます。\xfffe\xfffeポケモンに　もたせておくと　\xfffeしんかしなくなる　どうぐも\xfffeどこかに　あるようです。
-おなじ　しゅるいの　ポケモンでも\xfffeせいかくや　こせいは　さまざまです。\xfffeせいちょうにも　ちがいが　でてきます。\xfffe\xfffeポケモンの　つよさをみると　こうげきや\xfffeぼうぎょなどの　のうりょくに\xfffeいろが　ついていることが　あります。\xfffeあかは　その　のうりょくが　あがりやすく\xfffeあおは　あがりにくいことを　あらわします。
-ポケルスとは　ポケモンにくっつく　とても\xfffeめずらしい　せいめいたいの　ことです。\xfffeいちど　ポケルスが　くっついた\xfffeポケモンは　よくそだつ　らしいです。\xfffe\xfffeほかの　ポケモンにも\xfffeうつることが　あるようです。
-ぼうけんの　とちゅうで　であう\xfffeそだてやさんに　ポケモンを\xfffe２ひき　あずけていると　タマゴが\xfffeみつかることが　あります。\xfffe\xfffeタマゴは　げんきな　ポケモンと\xfffeいっしょに　つれあるくことで\xfffeなかから　ポケモンが　あらわれます。
-ランニングシューズを　もらったあとは\xfffeＢボタンを　おしながら　いどうすると\xfffeはしることが　できます。
-ダウジングマシンを　つかいながら\xfffeあるいていると　したがめんが\xfffeはんのうすることが　あります。\xfffeやじるしにむかって　あるいてみましょう。\xfffeかくれた　どうぐの　まうえに　たつと\xfffeがめんの　マークが　てんめつします。\xfffeまうえからは　どうぐが　ひろえません。\xfffeいっぽ　さがって　はんのうしていた\xfffeばしょをむいてから　Ａボタンを　おします。
-ＤＳワイヤレスつうしんや\xfffeＷｉ－Ｆｉつうしんを　つかって\xfffeともだちと　おはなしできる　どうぐです。\xfffe３ＤＳやＤＳｉ、ＤＳｉＬＬなら\xfffeカメラきのうを　つかって　ともだちの\xfffeかおを　みながら　おはなしが　できます。\xfffeライブキャスターで　おはなしするには\xfffeあらかじめ　ともだちコードを　とうろく\xfffeしあっておく　ひつようが　あります。
-■ＤＳワイヤレスつうしんのばあい\xfffeＣギアの　ワイヤレスボタンを　タッチして\xfffeライブキャスターを　えらびます。\xfffeちかくに　ともだちコードを　こうかん\xfffeしている　あいてが　みつかると\xfffeしたがめんに　なまえと　ＩＤばんごうが\xfffeひょうじされますので　おはなしをしたい\xfffeあいてを　えらんで　よびだして　ください。\xfffe３にんまで　どうじに　よびだせます。
-ともだちからの　よびだしが　あると\xfffeＣギアの　ワイヤレスボタンが　ひかり\xfffeよびだしおんが　なります。\xfffeライブキャスターに　ともだちの\xfffeなまえが　ひょうじ　されますので\xfffeタッチして　よびだしを　うけてください。\xfffeよびだしを　うけるまえに\xfffeライブキャスターを　えらぶと\xfffeよびだしを　うけることが　できません。
-■Ｗｉ－Ｆｉクラブのばあい\xfffeＷｉ－Ｆｉクラブの　なかにいる\xfffeメンバーの　ひとりと\xfffeいっしょに　おはなしできます。
-■ライブキャスターの　つかいかた\xfffeしたがめんで　そうさを　おこないます。\xfffeまんなかの　ボタンを　\xfffeタッチしながら　ことばを　はなすと\xfffeつうしんで　あいてに　こえが　とどきます。\xfffe\xfffeひだりの　ゲージを　そうさすると\xfffeこえの　たかさが　かえられます。
-３ＤＳやＤＳｉ、ＤＳｉＬＬなら\xfffeおたがいの　かおが　ひょうじされます。\xfffeみぎうえの　ボタンを　おすと　かおに\xfffeらくがきを　しあって　あそべます。\xfffeみぎしたの　ボタンで　がめんを\xfffeこていすることも　できます。\xfffeカメラが　ない　ほんたいの　ばあいは\xfffe「ＳＯＵＮＤ　ＯＮＬＹ」と\xfffeひょうじされます。
-みぎしたの　ふうせんマークの\xfffeボタンを　おすと　ライブキャスターに\xfffeさんかしている　ひとと　ミニゲームで\xfffeあそぶことが　できます。\xfffe\xfffeおしたボタンにより　それぞれ　ちがう\xfffeゲームを　あそぶことが　できます。
-ミニゲームを　はじめられるのは\xfffeさいしょに　ライブキャスターを　えらんだ\xfffeプレイヤー　だけです。\xfffe\xfffeまた　『ポケットモンスターブラック』\xfffe『ポケットモンスターホワイト』の\xfffeプレイヤーとは　ミニゲームを\xfffeあそぶことは　できません。
-イッシュちほうには　８つの　ジムが　あり\xfffeそれぞれに　ジムリーダーが　います。\xfffeジムバッジは　ジムリーダーに　かった\xfffeあかしとして　もらえる　バッジです。\xfffe\xfffeトレーナーカードがめんの\xfffeひだりしたにある　マークを　タッチすると\xfffeジムバッジを　どれだけ　もっているか\xfffeかくにん　することが　できます。
-てにいれた　バッジの　かずが　おおいと\xfffeひとから　もらった　ポケモンの　レベルが\xfffeたかくても　あなたの　めいれいを　\xfffeすなおに　きいてくれるように　なります。
-べんりボタンは　よくつかう　きのうや\xfffeどうぐを　つかいたいときに　すぐに\xfffeつかうことができる　べんりなボタンです。\xfffe\xfffeべんりボタンに　とうろくすると\xfffeＹボタンを　おして　すぐにつかえます。
-Ｘボタンを　おして　メニューを　ひらくと\xfffeしたのがめんに　しかくい　マークが\xfffeひょうじされている　ことが　あります。\xfffeこのマークを　タッチするか\xfffeＹボタンを　おすと\xfffeあかい　チェックマークが　つきます。\xfffe\xfffeチェックを　つけた　きのうや　どうぐが\xfffeべんりボタンに　とうろくされます。
-たいせつなもの　ポケットに　はいっている\xfffeどうぐの　よこにも\xfffeしかくい　マークが　あります。\xfffe\xfffeカーソルを　あわせて　Ｙボタンを　おすか\xfffeタッチして　チェックしておくと　\xfffeべんりボタンに　とうろくして　おけます。
-べんりボタンには　３４こ　まで\xfffeどうぐや　きのうを　とうろく　できます。\xfffeとうろくを　かいじょ　したい　ばあいは\xfffeしかくい　マークを　タッチするか\xfffeＹボタンを　おして\xfffeチェックを　はずして　ください。\xfffe２つ　いじょう　とうろく　していると\xfffeセレクトボタンで　べんりボタンの\xfffeこうもくを　ならびかえることが　できます。
-「メダルラリー」は　プレイヤーが　した\xfffeいろんなことを　ひょうかして\xfffeメダルを　プレゼントする　システムです。\xfffe\xfffeてにいれた　メダルは　バッグの\xfffe「たいせつなもの」にある\xfffe「メダルボックス」を　えらぶことで\xfffeかくにん　することが　できます。
-メダルは　じょうけんを　みたすと\xfffeポケモンセンターに　あらわれる\xfffe「メダルおやじ」に　はなしかけることで\xfffeてにいれることが　できます。
-ポケットモンスターの\xfffe『ダイヤモンド・パール・プラチナ\xfffe　ハートゴールド・ソウルシルバー』の\xfffeいずれかを　もう１だいの　ＤＳほんたいに\xfffeセットして　でんげんを　いれたあと\xfffeＤＳメニューがめん　の\xfffe「ＤＳダウンロードプレイ」を　えらび\xfffe「ポケシフター」を　えらんでください。
-ダウンロードが　おわったら\xfffe『ポケットモンスターブラック２』　または\xfffe『ポケットモンスターホワイト２』に\xfffeつれていく　ポケモンを　６ひき　きめて\xfffeタッチペンで　みぎがわの　わくに\xfffeスライドしてください。\xfffe\xfffeポケシフターで　つれてきたポケモンを\xfffeもとのソフトに　もどすことは　できません。
-タッチスクリーンを　タッチして\xfffeモンスターボールを　てまえに　ひき\xfffeポケモンに　ねらいを　さだめたら\xfffeモンスターボールを　はなしてください。\xfffe\xfffeくさむらや　きのかげに\xfffeかくれている　ポケモンも　います。
-モンスターボールが　うまく　あたると\xfffeかくれている　ポケモンが　とびでます。\xfffeポケモンに　むかって\xfffeもういちど　モンスターボールを\xfffeとばして　あててください。\xfffe\xfffeきめられた　じかんないに　６ひきすべて\xfffeつかまえて　みてください。
-たまに　ピンクいろの　けむりが\xfffeよこぎることが　あります。\xfffeこれに　モンスターボールを　あてると\xfffeポケモンたちは　ねむります。\xfffe\xfffeねむっているあいだ　ポケモンたちは\xfffeうごかないので　つかまえやすく　なります。
+ぼうけんを はじめたら\xfffeＸボタンで メニューを ひらき\xfffe「レポート」を こまめに かきましょう。\xfffe\xfffeレポートをかくと ＤＳの でんげんを\xfffeきっても タイトルメニューの\xfffe「つづきから はじめる」から\xfffeぼうけんの つづきを あそべます。
+All reports to again \xfffe \xfffe again including the adventure from the first titles in cotton when \xfffe\xfffe boot at the same time \xfffe 3 buttons buttons buttons B button \xfffe\xfffe please press all.
+Receives \xfffe, special \xfffe gifts in the following three methods, including 海城区 event. \xfffe and receive the Wireless Comm \xfffe, so how was decided each receives in red data and receive the Wi－Fi comm \xfffe \xfffe\xfffe event, \xfffe is important.
+In the mysterious gift, special \xfffe Pokemon and detergents and abcdavailableabcdfor tasksabcdunavailable abcdfor tasksabcdinboxabcdavailable card get \xfffe mysterious \xfffe blue \xfffe Pokémon Center to Hat huh was fast approaching is covered with \xfffe. \xfffe\xfffe talk to the Agency was \xfffe Pokemon and detergents should receive.
+Mysterious card is 12 \xfffe can be had up to it or not. sure the card when when \xfffe\xfffe mysterious card is full you want to receive \xfffe plus card is received already \xfffe no okurimono \xfffe try card album from \xfffe.
+In Pokemon IRIS Wi－Fi and events 海城区 and \xfffe it is done \xfffe you miss the. try checking \xfffe \xfffe is \xfffe \xfffe title menu "do battle" in detail about the \xfffe\xfffe battle you hear about.
+User registration methods and \xfffe battle you from Mr. こうしき \xfffe Internet for more details about checking how to \xfffe rules, such as the \xfffe battle you try checking \xfffe site \xfffe ポケモングローバル link \xfffe "official site" in.
+Registered in the "battle box" do battle at the \xfffe Games PC \xfffe \xfffe Pokemon from then. Once \xfffe\xfffe and abcdregistering around here want a medium wave \xfffe battle box to think carefully because not \xfffe before the registration, please choose the Pokemon \xfffe.
+Dawns \xfffe battle box Pokemon Battle you after the \xfffe want Miss necessary must either deselect the \xfffe ending. detail \xfffe\xfffe こうしき Internet for checking \xfffe site \xfffe ポケモングローバル link \xfffe "official site" in.
+\Xfffe can like will be checking the Prime Minister, who is \xfffe to the battle you abcdcompleting \xfffe shear-digital. こうしき \xfffe Internet \xfffe\xfffe detailed information for checking at the site \xfffe ポケモングローバル link \xfffe.
+May need advance Wi－Fi setting \xfffe advance \xfffe to ゲームシンク setting is. Choose the \xfffe ゲームシンク setting after using the \xfffe\xfffeWi－Fi setting \xfffe abcdpublishing \xfffe ゲームシンク ID code is a number you just \xfffe it is.
+\Xfffe Internet こうしき by using the PC \xfffe of ゲームシンク ID code when \xfffe user registration site \xfffe ポケモングローバル link \xfffe into.
+Erase, and still ゲームシンク ID code delete reports \xfffe Percy \xfffe together will be dark. case is involved with \xfffe \xfffe\xfffe ゲームシンク ID code may need \xfffe and again registration again \xfffe ポケモングローバル link is.
+You can \xfffe setting for Nintendo DS／DS Lite \xfffeWi－Fi Comm. \xfffe\xfffeWi－Fi setting if you ran \xfffe Internet \xfffe world \xfffe Pokemon and people all over, sharing information and allows that a world war \xfffe.
+Also \xfffe ポケモングローバル links, such as "do battle" and \xfffe "ゲームシンク settings" れんどう \xfffe \xfffe case wants to also advance keep the \xfffeWi－Fi setting will need.
+Can you \xfffe abcdreviewing? the main force DS microphone is running correctly \xfffe is. start voice \xfffe\xfffe microphone toward \xfffe when ふきかけた iki \xfffe is helping noodle pudding goes if \xfffe Mike is moving correctly.
+\Xfffe or 19 1 Pokemon, tohelp detergents can you buy. \xfffe computers for effective evaluating araragi doctor \xfffe いれかえたり Pokemon caught by \xfffe in here. \xfffe Pokemon thru Comm and \xfffe\xfffe friends, sharing information and a world war \xfffe Pokemon Center two months come achieved.
+You can つれだす the Pokemon あずけたり Pokemon use the PC is hang \xfffe, have entrusted to the \xfffe \xfffe. \xfffe\xfffe Pokemon 6 stretches when brought to the newly \xfffe caught Pokemon profilesconnecting at \xfffe this PC \xfffe you will.
+Pokemon have entrusted to the PC is \xfffe like \xfffe せいり box in box not or if, いれかえる \xfffe place.
+Not touch the Pokémon if I want \xfffe "not to" touch the box is displaying \xfffe on the right. \xfffe\xfffe gray arrowheads not slide into top and bottom \xfffe box \xfffe box if you want to touch a touch \xfffe Pokemon \xfffe GSC rabbit they can be.
+Touch the blue button きりかわります \xfffe switching mode. Pokemon chose the \xfffe\xfffe touch \xfffe tell me, let me \xfffe slide until the swapping would like to place.
+Abcdlinking \xfffe and touch the yellow button not what divided the alone mode. touch the \xfffe\xfffe box \xfffe a dotted line will be viewing. \xfffe not \xfffe not together Pokémon not be one if I want Pokemon \xfffe a dotted line of what to.
+Pokemon commonly used in a world war \xfffe1-6 readily registration until the ground beef. You can choose \xfffe it using the Pokemon \xfffe friends and before long is when the registration \xfffe battle box, Iris, \xfffe it using the Pokemon てもち IRIS. case \xfffe \xfffe battle box to nothing but registration is not the IRIS \xfffe てもち Pokemon.
+My friend lets Exchange comm もうしこむ \xfffe made \xfffe there follows four. IR comm-\xfffe\xfffe in \xfffe / \xfffe begins in the Union room, \xfffe begins at the Wi－Fi Club in the global terminal begins
+& Exchange comm friend near IR comm in \xfffe\xfffe \xfffe when もうしこむ \xfffe will use the IR comm is started immediately, and convenient. choose "IR" Comm \xfffe\xfffeC gear, please choose the \xfffe Exchange.
+\Xfffe\xfffe started in the Union room lots of friends and when play with \xfffe in everybody's Union room \xf
