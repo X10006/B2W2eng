@@ -1,9 +1,9 @@
-\xf000ā\x0001\x0000
-\xf000Ă\x0001\x0000
+\xf000 ā \x0001\x0000
+\xf000 Ă \x0001\x0000
 もちもの
-せいかく
-とくせい
-\xf000ċ\x0001\x0000
+Leather manufacture
+Moral character
+\xf000 ċ \x0001\x0000
 BOX 1
 BOX 2
 BOX 3
@@ -28,18 +28,18 @@ BOX 21
 BOX 22
 BOX 23
 BOX 24
-\xf000ȁ\x0001\x0000
+\xf000 ȁ \x0001\x0000
 SWITCH BOX
 WALLPAPER
-NAME
+The NAME
 CANCEL
 SCENERY 1
 SCENERY 2
 SCENERY 3
-MISC.
-だいすき１
-だいすき２
-FOREST
+MISC...
+I love 1
+I love 2
+A FOREST
 CITY
 DESERT
 SAVANNA
@@ -51,12 +51,12 @@ BEACH
 SEAFLOOR
 RIVER
 SKY
-POKÉ CENTER
+POK É CENTER
 MACHINE
 CHECKS
 SIMPLE
 SPECIAL
-MONOCHROME
+The MONOCHROME
 TEAM PLASMA
 ポケウッド
 PWT
@@ -67,11 +67,11 @@ ZEKROM
 BACK
 PREVIOUS
 NEXT
-PARTY ⒆⒇
+PARTY ⒆ ⒇
 BOX LIST
 BATTLE BOX
-ボックスをきりかえる
-もちものせいり
+Toggles fullscreen box
+もちもの organizing
 SUMMARY
 HELD ITEMS
 MARKING
@@ -84,122 +84,60 @@ MOVE
 TUCK IN
 CONFIRM
 CANCEL
-いれかえ
+Swapping
 CANCEL
 CANCEL
-Switch Pokémon\xfffe to box?
-かべがみを\xfffeはりかえる
-ポケモンを\xfffeあずける
+Switch Pok é mon \xfffe to box?
+はりかえる かべがみ \xfffe
+Put the Pokemon \xfffe
 Bag
 Give
 Move
 ♂
 ♀
-\xf000Ć\x0001\x0000
-\xf000Ĉ\x0001\x0000
-\xf000ĉ\x0001\x0000
-せいかく
-とくせい
+\xf000 Ć \x0001\x0000
+\xf000 C \x0001\x0000
+\xf000 ĉ \x0001\x0000
+Leather manufacture
+Moral character
 もちもの
-\xf000Ȃ\x0001\x0000
-\xf000Ȃ\x0001\x0000
+\xf000 Ȃ \x0001\x0000
+\xf000 Ȃ \x0001\x0000
 None
 ???
-Lv.
-No.
+LV.
+No. 2
 Moves Learned
 Yes
 No
-ボックスを　せいりする
-バトルボックス
-ポケモンを　しぼりこむ
-じょうけんを　えらび　ＯＮに　すると\xfffeしぼりこみを　おこないます。
-ポケモンの　なまえの\xfffeかしらもじを　えらんでください。
-ポケモンを　えらんでください。\xfffe\xfffeなまえ：　\xf000\xff00\x0001\x0002\xf000ā\x0001\x0000\xfffe\xf000\xff00\x0001\x0000タイプ１：　\xf000ă\x0001\x0001\xfffeタイプ２：　\xf000ă\x0001\x0002
-ポケモンを　えらんでください。\xfffe\xfffeなまえ：　\xf000\xff00\x0001\x0002\xf000ā\x0001\x0000\xf000\xff00\x0001\x0000\xfffeタイプ１：　\xf000ă\x0001\x0001\xfffeタイプ２：　ーーーー
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　　\xf000\xff00\x0001\x0002がんばりや\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000バランスよく　せいちょう　しやすい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002さみしがり\xfffe\xf000\xff00\x0001\x0000こうげきが　せいちょう　しやすい。\xfffeぼうぎょが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002ゆうかん\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000こうげきが　せいちょう　しやすい。\xfffeすばやさが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002いじっぱり\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000こうげきが　せいちょう　しやすい。\xfffeとくこうが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002やんちゃ\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000こうげきが　せいちょう　しやすい。\xfffeとくぼうが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002ずぶとい\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000ぼうぎょが　せいちょう　しやすい。\xfffeこうげきが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002すなお\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000バランスよく　せいちょう　しやすい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002のんき\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000ぼうぎょが　せいちょう　しやすい。\xfffeすばやさが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002わんぱく\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000ぼうぎょが　せいちょう　しやすい。\xfffeとくこうが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002のうてんき\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000ぼうぎょが　せいちょう　しやすい。\xfffeとくぼうが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002おくびょう\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000すばやさが　せいちょう　しやすい。\xfffeこうげきが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002せっかち\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000すばやさが　せいちょう　しやすい。\xfffeぼうぎょが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002まじめ\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000バランスよく　せいちょう　しやすい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002ようき\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000すばやさが　せいちょう　しやすい。\xfffeとくこうが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002むじゃき\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000すばやさが　せいちょう　しやすい。\xfffeとくぼうが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002ひかえめ\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000とくこうが　せいちょう　しやすい。\xfffeこうげきが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002おっとり\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000とくこうが　せいちょう　しやすい。\xfffeぼうぎょが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002れいせい\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000とくこうが　せいちょう　しやすい。\xfffeすばやさが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002てれや\xfffe\xf000\xff00\x0001\x0000バランスよく　せいちょう　しやすい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002うっかりや\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000とくこうが　せいちょう　しやすい。\xfffeとくぼうが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002おだやか\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000とくぼうが　せいちょう　しやすい。\xfffeこうげきが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002おとなしい\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000とくぼうが　せいちょう　しやすい。\xfffeぼうぎょが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002なまいき\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000とくぼうが　せいちょう　しやすい。\xfffeすばやさが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002しんちょう\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000とくぼうが　せいちょう　しやすい。\xfffeとくこうが　せいちょう　しにくい。
-ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002きまぐれ\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000バランスよく　せいちょう　しやすい。
-とくせいの\xfffeかしらもじを　えらんでください。
-とくせいを　えらんでください。\xfffe\xfffeとくせい：　\xf000\xff00\x0001\x0002\xf000Ć\x0001\x0000\xf000\xff00\x0001\x0000\xfffe
-ポケモンの\xfffeせいべつを　えらんでください。
-ポケモンの　もちものに　ついて\xfffeえらんでください。
-ポケモンの　マーキングについて\xfffeえらんでください。
-\xf000봂\x0000なまえ
-\xf000봂\x0000せいかく
-\xf000봂\x0000とくせい
-\xf000봂\x0000せいべつ
-\xf000봂\x0000もちもの
-\xf000봂\x0000マーク
-ア
-イ
-ウ
-エ
-オ
-カ
-キ
-ク
-ケ
-コ
-サ
-シ
-ス
-セ
-ソ
-タ
-チ
-ツ
-テ
-ト
-ナ
-ニ
-ヌ
-ネ
-ノ
-ハ
-ヒ
-フ
-ヘ
-ホ
-マ
-ミ
-ム
-メ
-モ
-ヤ
-ユ
-ヨ
-ラ
-リ
-ル
-レ
-ロ
-ワ
-ー
-♂
-♀
-Nature
-Ability
-Item
+Abcdorganizing box
+Battle box
+Which squeezes the Pokemon
+And choose conditional on done \xfffe しぼりこみ.
+Please choose the name of the Pokemon \xfffe the first letter.
+Please choose the Pokemon. \xfffe\xfffe name: \xf000\xff00\x0001\x0002\xf000 ā \x0001\x0000\xfffe\xf000\xff00\x0001\x0000 type 1: \xf000 Bacău can amount \x0001\x0001\xfffe type 2: \xf000 Bacău can amount \x0001\x0002
+Please choose the Pokemon. \xfffe\xfffe name: \xf000\xff00\x0001\x0002\xf000 ā \x0001\x0000\xf000\xff00\x0001\x0000\xfffe type 1: \xf000 Bacău can amount \x0001\x0001\xfffe type 2:----
+Choose a psychic sense. version \xfffe\xfffe: \xf000\xff00\x0001\x0002-they often pull and \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 balance.
+Choose a psychic sense. version \xfffe\xfffe: \xf000\xff00\x0001\x0002 sannan \xfffe\xf000\xff00\x0001\x0000 like this play is easy growing. \xfffe I not growing.
+Choose a psychic sense. version \xfffe\xfffe: \xf000\xff00\x0001\x0002 Hima \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 like this play is easy growing. \xfffe quickness that is growing.
+Choose a psychic sense. version \xfffe\xfffe: \xf000\xff00\x0001\x0002 いじっぱり \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 this play is easy growing. \xfffe look or not growing.
+Choose a psychic sense. version \xfffe\xfffe: \xf000\xff00\x0001\x0002 naughty \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 this play is easy growing. \xfffe とくぼう is growing.
+Choose a psychic sense. version \xfffe\xfffe: \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 I \xf000\xff00\x0001\x0002 a lot of nerve to growing. \xfffe like this play is not growing.
+Choose a psychic sense. version \xfffe\xfffe: \xf000\xff00\x0001\x0002 pliantly easy growing \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 balanced.
+Choose a psychic sense. personality \xfffe\xfffe: carefree \xf000\xff00\x0001\x0002 \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 I easy growing. \xfffe quickness that is growing.
+Choose a psychic sense. version \xfffe\xfffe: \xf000\xff00\x0001\x0002 naughty \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 I easy growing. \xfffe look or not growing.
+Choose a psychic sense. version \xfffe\xfffe: \xf000\xff00\x0001\x0002 のうてんき \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 I-growing. \xfffe とくぼう is growing.
+Choose a psychic sense. version \xfffe\xfffe: \xf000\xff00\x0001\x0002 cowardly \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 quickness that easy growing. \xfffe like this play is not growing.
+Choose a psychic sense. version \xfffe\xfffe: \xf000\xff00\x0001\x0002 impatient \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 quickness that easy growing. \xfffe I not growing.
+Choose a psychic sense. personality \xfffe\xfffe: straight \xf000\xff00\x0001\x0002 easy growing \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 balanced.
+Choose a psychic sense. \xfffe\xfffe leather manufacture: \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 \xf000\xff00\x0001\x0002 to decant the quickness that easy growing. \xfffe look or not growing.
+Choose a psychic sense. version \xfffe\xfffe: \xf000\xff00\x0001\x0002 むじゃき \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 quickness that easy growing. \xfffe とくぼう is growing.
+Choose a psychic sense. version \xfffe\xfffe: \xf000\xff00\x0001\x0002 cooking \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 look you will easy growing. \xfffe like this play is not growing.
+Choose a psychic sense. version \xfffe\xfffe: \xf000\xff00\x0001\x0002 bland \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 especially you will easy growing. \xfffe I not growing.
+Choose a psychic sense. version \xfffe\xfffe: \xf000\xff00\x0001\x0002 れいせい \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 look you will easy growing. \xfffe quickness that is growing.
+Choose a psychic sense. \xfffe\xfffe leather manufacture: easy growing \xf000\xff00\x0001\x0002 てれや \xfffe\xf000\xff00\x0001\x0000 balance.
+Choose a psychic sense. \xfffe\xfffe leather manufacture: haphazard or \xf000\xff00\x0001\x0002 \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 look you will easy growing. \xfffe とくぼう is growing.
+Choose a psychic sense. version \xfffe\xfffe: \xf000\xff00\x0001\x0002 tender and \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 とくぼう easy growing. \xfffe like this play is not growing.
+Choose a psychic sense. \xfffe\xfffe personality: quiet \xf000\xff00\x0001\x0002 \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 とくぼう easy growing. \xfffe I not growing.
+Choose a psychic sense. version \xfffe\xfffe: \xf000\xff00\x0001\x0002 なまいき \xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000 とくぼう easy growing. \xfffe quickness that is growing.
+Choose a psychic sense. version \xfffe\xfffe: \xf000\xff00\x0001\x0002 and
