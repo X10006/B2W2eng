@@ -15,26 +15,26 @@ You're a girl, right?\xf000븁\x0000
 Boy
 Girl
 I'd like to know your name.\xf000븁\x0000\xfffePlease tell me.\xf000븁\x0000
-Your name is \xf000Ā\x0001\x0000?\xf000븁\x0000
-Your name is \xf000Ā\x0001\x0000?\xf000븁\x0000
+Your name is \xf000 ā \x0001\x0000? \xf000 븁 \x0000
+Your name is \xf000 ā \x0001\x0000? \xf000 븁 \x0000
 Yes
 No
-So your name's \xf000Ā\x0001\x0000.\xfffeWhat a wonderful name!\xf000븁\x0000
-それでは　あなたと　いつも\xfffeいっしょに　いる　おともだちを\xf000븀\x0000\xfffeあらためて　しょうかい　するわね\xf000븁\x0000
-それでは　つぎは　あなたの\xfffeしりあいに　ついて　きかせてね\xf000븀\x0000\xfffeきんじょの　おにいさん　なんでしょ\xf000븁\x0000
-かれの　なまえも\xfffeおしえてくれるかな\xf000븁\x0000
-ヒュウ
-デフォ１
-デフォ２
-じぶんできめる
-\xf000Ā\x0001\x0001　ね\xfffeそれで　あっている？\xf000븁\x0000
-こちらの　おとこのこは　チェレン\xf000븁\x0000\xfffeきむずかしい　ところも　あるけれど\xfffeまっすぐな　おとこのこ\xf000븁\x0000
-こちらの　おんなのこは　ベル\xf000븁\x0000\xfffeちょっと　マイペース　だけど\xfffeがんばりやの　おんなのこ\xf000븁\x0000
-\xf000Ā\x0001\x0000！\xf000븁\x0000\xfffeこれから　あなたを　たよりにして\xfffeだいじな　だいじな\xf000븀\x0000\xfffeポケモンを　プレゼントします\xf000븁\x0000
-あなたが　パートナーとなる\xfffeポケモンを　えらんだ　そのときから\xf000븁\x0000\xfffeあなただけの\xfffeたびものがたりが　はじまります\xf000븁\x0000\xfffeこの　たびで　あなたは\xfffeかずおおくの　ポケモン\xf000븀\x0000\xfffeいろんな　かんがえの　ひとと\xf000븀\x0000\xfffeであい　ふれあうでしょう！\xf000븁\x0000\xfffeその　さまざまな　であいから\xfffeあなただけの　たいせつな　ものを\xf000븀\x0000\xfffeぜひ　みつけてほしい……\xf000븁\x0000\xfffeそう！　たくさんの　ひとびとや\xfffeポケモンと　ふれあい\xf000븀\x0000\xfffeじぶんじしんを　せいちょう　させる\xf000븁\x0000\xfffeそれが　この　ぼうけんの\xfffeもっとも　おおきな　もくてきです\xf000븁\x0000\xfffeそれでは　いきましょう！\xfffeポケットモンスターの　せかいへ！\xf000븁\x0000
-ちょっと　まってね……！\xfffeいま　いろいろ　じゅんび　してるから
-よーし！\xfffeこれで　オーケーと！\xf000븁\x0000
-ちゅうい！\xfffeべつの　ポケモンレポートが　かかれていますので\xfffeこれから　はじめる　ぼうけんは\xfffeとちゅうで　レポートを　かくことができません\xfffeそれでも　よろしいですか？
-ぼうけんを　はじめる
-メニューに　もどる
-デモをとばす？
+So your name's \xf000 ā \x0001\x0000.\xfffeWhat a wonderful name! \xf000 븁 \x0000
+So \xfffe together with you always introduce anew Dai who are \xf000 븀 \x0000\xfffe's \xf000 븁 \x0000
+So next is \xfffe your guess about the appointed effective \xf000 븀 \x0000\xfffe my neighbor of you were no onii-San \xf000 븁 \x0000
+His name also \xfffe how is teaches \xf000 븁 \x0000
+Heartfelt
+Default 1
+Default 2
+Decided by
+guess \xf000 ā \x0001\x0001 \xfffe that the right? \xf000 븁 \x0000
+But Celine \xf000 븁 \x0000\xfffe and Dour some big boy here is a straight \xfffe young \xf000 븁 \x0000
+This girl is my pace a little Bell \xf000 븁 \x0000\xfffe \xfffe unshuu of girl \xf000 븁 \x0000
+\xf000 ā \x0001\x0000！ \xf000 븁 \x0000\xfffe \xf000 븁 \x0000, presents the important \xfffe important \xf000 븀 \x0000\xfffe Pokemon to your reliance
+Since then chose \xfffe Pokemon you become partners with \xf000 븁 \x0000\xfffe even begin that you just \xfffe went \xf000 븁 \x0000\xfffe \xfffe かずおおく in this each time you Pokemon \xf000 븀 \x0000\xfffe AI in \xf000 븀 \x0000\xfffe and many matrons who would interact! \xf000 븁 \x0000\xfffe from various deai \xfffe the most important thing for you just \xf000 븀 \x0000\xfffe please I want you to find...... \xf000 븁 \x0000\xfffe it! Fureai \xfffe Pokemon and lots of people \xf000 븀 \x0000\xfffe \xf000 븁 \x0000\xfffe that they じぶんじしん it justified this Percy \xfffe is big what \xf000 븁 \x0000\xfffe will now! \xfffe Pokemon world to! \xf000 븁 \x0000
+Just wait... \xfffe from now things are two
+I-to! \xfffe and okay with it! \xf000 븁 \x0000
+Important! \xfffe another Pokémon report is written as \xfffe adventure begins from this cannot anyway report in \xfffe and China \xfffe? yet?
+Begin the adventure
+Back to the menu
+Skip the demo?
