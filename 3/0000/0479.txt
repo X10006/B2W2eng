@@ -1,42 +1,41 @@
-\xf000Ā\x0001\x0000は\xfffeパソコンの　スイッチを　いれた！\xf000븁\x0000
-どこの　パソコンに　せつぞくして\xfffeつうしん　しますか？
-だれかのパソコン
-ショウロのパソコン
-\xf000Ā\x0001\x0000のパソコン
-はかせのパソコン
-きろくをみる
-ヘルプをみる
-スイッチをきる
-アララギはかせの\xfffeパソコンに　せつぞく　した！\xf000븀\x0000
-でんどういりの\xfffeデータが　こわれています\xf000븁\x0000\xfffeもういちど　でんどういり　すれば\xfffeだいじょうぶ　です\xf000븁\x0000
-おめでとうございます！\xf000븁\x0000\xfffeはじめて　クリアした　きねんとして\xfffeかべがみが　ついか　されました！\xf000븁\x0000
-おめでとうございます！\xf000븁\x0000\xfffeチャンピオンに　かった　きねんとして\xfffeかべがみが　ついか　されました！\xf000븁\x0000
-おめでとうございます！\xf000븁\x0000\xfffeキュレムを　つかまえた　きねんとして\xfffeかべがみが　ついか　されました！\xf000븁\x0000
-ポケモンの　あずかりシステムを\xfffeよびだした！\xf000븁\x0000
-ポケモンを　あずける
-ポケモンを　つれていく
-ボックスを　せいりする
-もちものを　せいりする
-さようなら
-バトルボックス
-てもちの　ポケモンを\xfffeボックスに　あずけることが　できます
-ボックスに　あずけている　ポケモンを\xfffeてもちに　くわえることが　できます
-ボックスに　あずけている　ポケモンや\xfffeてもちのポケモンを　せいり　できます
-ポケモンが　もっている\xfffeどうぐを　せいり　できます
-ポケモンあずかりシステム　への\xfffeつうしんを　せつだん　します
-てもちとは　べつに　たいせんでつかう\xfffeポケモンを　とうろく　できます
-\xf000Ā\x0001\x0000の\xfffeパソコンに　せつぞく　した！\xf000븁\x0000
-メールボックス
-せつぞくを　きる
-メールを　２０つう　まで\xfffeほぞん　することが　できます
-じぶんのパソコン　への\xfffeつうしんを　せつだん　します
-はじめてのクリア
-でんどういり
-せつぞくを　きる
-きろく　システムに\xfffeせつぞく　した！\xf000븁\x0000
-はじめて　クリアしたときの\xfffeメンバーを　みることが　できます
-でんどういり　したときの\xfffeメンバーを　みることが　できます
-きろくシステム　への\xfffeつうしんを　せつだん　します
-アララギはかせの\xfffeパソコンに　せつぞく　した！\xf000븁\x0000
-ヘルプ　システムに\xfffeせつぞく　した！\xf000븁\x0000
-　
+\xf000 ā \x0001\x0000 got \xfffe your PC switch! \xf000 븁 \x0000
+Then you \xfffe comm, have connections to the PC where?
+Someone's PC
+PC shower
+\xf000 ā \x0001\x0000 PC
+Doctor PC
+Try recording
+Try the help
+Possible switch
+With connections to doctor araragi \xfffe PC! \xf000 븀 \x0000
+Curl up \xf000 븁 again \x0000\xfffe what is woefully \xfffe data broken okiden whether roasted if is OK \xfffe \xf000 븁 \x0000
+Congratulations! as was clear for the first time \xf000 븁 \x0000\xfffe \xfffe かべがみ inadvertently were! \xf000 븁 \x0000
+Congratulations! was as I wanted \xf000 븁 \x0000\xfffe champions \xfffe かべがみ recently?! \xf000 븁 \x0000
+Congratulations! was caught \xf000 븁 \x0000\xfffe キュレム as \xfffe かべがみ recently?! \xf000 븁 \x0000
+\Xfffe よびだした the Pokemon of your system! \xf000 븁 \x0000
+Put the Pokemon
+Take the Pokemon
+Abcdorganizing box
+Abcdorganizing もちもの
+Good bye
+Battle box
+You can put the Pokemon てもち \xfffe box
+You can chew Pokemon have entrusted to the box on \xfffe てもち
+You can せいり \xfffe てもち Pokemon and Pokemon have entrusted to the box
+Have the Pokemon \xfffe detergents can be せいり
+せつだん the \xfffe comm to Pokemon your system
+You can use a world war てもち and \xfffe Pokemon
+the connections to the \xf000 ā \x0001\x0000 \xfffe PC! \xf000 븁 \x0000
+Mailbox
+Possible connections
+Stomach 20 mail until you can \xfffe saving
+せつだん the \xfffe comm to my PC
+For the first time clear
+Curl up needing?
+Possible connections
+Connections to the trail system \xfffe! \xf000 븁 \x0000
+You can see if you clear the first time \xfffe members
+Curl up needing what you can see when the \xfffe Member
+せつだん the recording systems \xfffe comm
+With connections to doctor araragi \xfffe PC! \xf000 븁 \x0000
+Connections help system \xfffe! \xf000 븁 \x0000
