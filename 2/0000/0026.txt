@@ -1,18 +1,18 @@
 Entralink
-ライブ\xfffe　　キャスター
-Union Room
-\xf000ȁ\x0001\x0000Ppl.
+Live \xfffe caster
+The Union Room
+\xf000 ȁ \x0001\x0000Ppl.
 Wireless Distribution
-あり
-なし
+Yes
+Without
 Yes
 No
 Back
-ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
-セーブしています\xfffeしばらく　おまちください
+かきこみます かつやく far \xfffe Pokemon report to?
+Please wait \xfffe saves some time
 C-Gear Detected
-あり
-なし
-Entralink\xfffe　connecting...
-Entralink\xfffe　Guests:\xf000Ȁ\x0001\x0000
-Entralink\xfffe　Mission
+Yes
+Without
+Entralink \xfffe connecting...
+Entralink \xfffe Guest s:\xf000 Ȁ \x0001\x0000
+Entralink \xfffe Mission
